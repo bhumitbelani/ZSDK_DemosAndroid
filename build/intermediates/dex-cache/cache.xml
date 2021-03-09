@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/ZSDK_ANDROID_API.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="28beb82388d0c38d2eb9a50da637ed22fd6f34e0">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/ZSDK_ANDROID_API_c14d5aca08faf42455766c6d85723a4b08a7d4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.3_9a5fd2c59522e5e454e19178dedd63914c90604e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/snmp6_1z.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="f65af1cddb65e525f89a48c8c711a9ef95da26f5">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/snmp6_1z_d21664af4a4fb026f6aa3fb2bb32aa892df6d76c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/jackson-databind-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.3_18d51e4921e95cb439184e802a896b5e0579bd2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/opencsv-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="f1231104847b1132a07c54c7db8a823ef7923f7c">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/opencsv-2.2_2fee4e27110162eed06b033da1051199f2f3347b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/httpmime-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="3202421d9425ced69919b282afa644e7ef0e8fef">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/httpmime-4.3.2_1e642ff255f8e88b73b919a31b1aa063e0ac673e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/prov-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/prov-1.53.0.0_dda6f074df6ab35d9bf7eb1f21be15b22386aef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/commons-io-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/commons-io-2.2_38343951c8a832b8d41cbecba1ab70155fec19df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/pkix-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="340c75534d964f468d82ed42006a7255362046c7">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/pkix-1.53.0.0_4f621b0337b30bd91495c9bf66d5fc2237e16695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/commons-validator-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="42fa1046955ade59f5354a1876cfc523cea33815">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/commons-validator-1.4.0_b62be22c062c4b136141ef9f751f93939e8b2d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/httpcore-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="98e2eefcf524f757188f172642ecf5e2c7421947">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/httpcore-4.3.1_5f61b2cf2aec4d5b675547700b8d38513f74b71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/core-1.53.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/core-1.53.0.0_daa7b79a2af0bb0929b465bb3f7436f556971978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_11c37669c30dc9d239a7b4b768a3ea296e24f29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/commons-net-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="2298164a7c2484406f2aa5ac85b205d39019896f">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/commons-net-3.1_3317f364920ca73349ae590da4999e16f8a46929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.3"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_9a91ecef30ad6d6e3c3aad32103be50337cccfa9.jar" />
+    </item>
+
+</items>

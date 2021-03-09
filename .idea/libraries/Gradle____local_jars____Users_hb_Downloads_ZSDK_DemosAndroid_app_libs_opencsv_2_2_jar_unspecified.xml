@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/opencsv-2.2.jar:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/opencsv-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

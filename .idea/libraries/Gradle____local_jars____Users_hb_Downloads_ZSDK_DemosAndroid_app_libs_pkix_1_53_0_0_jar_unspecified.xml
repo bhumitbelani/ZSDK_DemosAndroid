@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/hb/Downloads/ZSDK_DemosAndroid/app/libs/pkix-1.53.0.0.jar:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pkix-1.53.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

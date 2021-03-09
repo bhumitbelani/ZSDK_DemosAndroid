@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/image_print_demo.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/image_print_demo.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/sig_capture_demo.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/sig_capture_demo.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/connection_screen_with_status.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/connection_screen_with_status.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/stored_format_demo.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/stored_format_demo.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/multicast_discovery_parameters.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/multicast_discovery_parameters.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/mag_card_demo.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/mag_card_demo.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/formats_list_activity.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/formats_list_activity.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/subnet_search_discovery_parameters.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/subnet_search_discovery_parameters.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/status_channel_activity.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/status_channel_activity.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/connection_builder.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/connection_builder.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/stored_format_variables.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/stored_format_variables.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/connection_screen.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/connection_screen.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/print_status_activity.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/print_status_activity.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/direct_broadcast_discovery_parameters.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/direct_broadcast_discovery_parameters.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/discovery_results.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/discovery_results.xml"
+    },
+    {
+        "merged": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/res/merged/debug/layout/discovery_methods.xml",
+        "source": "/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/res/layout/discovery_methods.xml"
+    }
+]

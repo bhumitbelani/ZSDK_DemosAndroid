@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/assets"><file name="anderl_logo_1_.pcx" path="/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/main/assets/anderl_logo_1_.pcx"/></source><source path="/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/hb/Downloads/ZSDK_DemosAndroid/app/src/debug/assets"/></dataSet></merger>

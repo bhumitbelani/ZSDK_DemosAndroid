@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZSDK_DemosAndroid.iml" filepath="$PROJECT_DIR$/ZSDK_DemosAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ZSDK_DemosAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ZSDK_DemosAndroid.app.iml" />
+    </modules>
+  </component>
+</project>

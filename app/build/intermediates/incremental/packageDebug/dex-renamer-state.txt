@@ -1,0 +1,4 @@
+#Tue Mar 09 14:52:50 IST 2021
+base.0=/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/hb/Downloads/ZSDK_DemosAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
